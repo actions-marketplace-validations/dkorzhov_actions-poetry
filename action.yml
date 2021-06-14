@@ -3,4 +3,4 @@ name: 'Docker python poetry'
 description: 'Build python poetry'
 runs:
   using: 'docker'
-  image: 'Dockerfile'
+  image: './actions/Dockerfile'
